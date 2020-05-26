@@ -1,0 +1,3145 @@
+{
+  "intents": [
+    {
+      "intent": "COVID_Treatment_Info",
+      "examples": [
+        {
+          "text": "best vitamin to take"
+        },
+        {
+          "text": "Should I take Theraflu?"
+        },
+        {
+          "text": "what medicines work best"
+        },
+        {
+          "text": "what medicines should I take if I have coronavirus"
+        },
+        {
+          "text": "what medicine work best for treatment ?"
+        },
+        {
+          "text": "What medicine should I take for COVID 19"
+        },
+        {
+          "text": "Can medication be used to reduce fever?"
+        },
+        {
+          "text": "What medicine should I avoid taking if I have coronavirus"
+        },
+        {
+          "text": "what kind of medicine should I take"
+        },
+        {
+          "text": "Medication that helps with coronavirus"
+        },
+        {
+          "text": "What is the treatment for this disease?"
+        },
+        {
+          "text": "what medicine should I be taking for Covid 19"
+        },
+        {
+          "text": "What is the treatment for covid-19?"
+        },
+        {
+          "text": "Is there a medication to reduce temperature with covid-19?"
+        },
+        {
+          "text": "Is there a medication that can help me feel better?"
+        },
+        {
+          "text": "I heard about a medication for coronavirus treatment"
+        },
+        {
+          "text": "How to treat covid?"
+        },
+        {
+          "text": "How do we treat covid?"
+        },
+        {
+          "text": "How can I lower my temperature if I have the coronavirus?"
+        },
+        {
+          "text": "can medication reduce fever caused by a possible covid infection?"
+        },
+        {
+          "text": "How do I treat coronavirus?"
+        },
+        {
+          "text": "Can I take ibuprofen if I have corona virus?"
+        },
+        {
+          "text": "Can I lower my temperature using medication?"
+        }
+      ],
+      "description": "How to treat Covid-19."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "How can I configure you?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "COVID_Comparing_Illness",
+      "examples": [
+        {
+          "text": "what's the difference between the flu and coronavirus"
+        },
+        {
+          "text": "is this the same as the flu?"
+        },
+        {
+          "text": "Flu vs Coronavirus"
+        },
+        {
+          "text": "flu vs covid19"
+        },
+        {
+          "text": "Flu vs. COVID-19"
+        },
+        {
+          "text": "How do flu symptoms differ from coronavirus symptoms?"
+        },
+        {
+          "text": "how does cover-19 compare to the SARS epidemic?"
+        },
+        {
+          "text": "How is corona virus different than SARS?"
+        },
+        {
+          "text": "How is flu different from coronavirus"
+        },
+        {
+          "text": "how is the flue different from the coronavirus?"
+        },
+        {
+          "text": "How's the flu different from coronavirus?"
+        },
+        {
+          "text": "is covid the same as the flu?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "is this worse than flu"
+        },
+        {
+          "text": "is this worse than flue"
+        },
+        {
+          "text": "Is this worse than the flu?"
+        },
+        {
+          "text": "SARS vs Corona virus?"
+        },
+        {
+          "text": "What is different between flu and coronavirus"
+        },
+        {
+          "text": "What is the difference between COVID-19 and the flu"
+        },
+        {
+          "text": "what is the difference between flu and coronavirus"
+        },
+        {
+          "text": "what is the difference between the flu and coronavirus"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus"
+        },
+        {
+          "text": "What's the difference between flu and coronavirus?"
+        }
+      ],
+      "description": "Comparing Covid to other illnesses."
+    },
+    {
+      "intent": "COVID_Govt_Emergency",
+      "examples": [
+        {
+          "text": "When will the national emergency end?"
+        },
+        {
+          "text": "A national emergency was declared in the United States. What does this mean?"
+        },
+        {
+          "text": "Can the government close public places?"
+        },
+        {
+          "text": "How does the state of emergency affect me?"
+        },
+        {
+          "text": "How is the United States prepared for the spread of covid 19?"
+        },
+        {
+          "text": "How is the US government addressing the spread of covid-19?"
+        },
+        {
+          "text": "How long has the national emergency been in place?"
+        },
+        {
+          "text": "How long will the state of emergency last?"
+        },
+        {
+          "text": "Is the government legally allowed to close shops and restaurants?"
+        },
+        {
+          "text": "is the government ready for covid"
+        },
+        {
+          "text": "Is the US well prepared for covid 19"
+        },
+        {
+          "text": "Is there a nationwide curfew?"
+        },
+        {
+          "text": "Tell me about the Coronavirus response"
+        },
+        {
+          "text": "What are the crisis measures currently in place?"
+        },
+        {
+          "text": "What does a state of emergency mean?"
+        },
+        {
+          "text": "What has our government already done to reduce the risk of spreading the disease"
+        },
+        {
+          "text": "What is a national emergency?"
+        },
+        {
+          "text": "What is the Government doing about Covid?"
+        },
+        {
+          "text": "What measurements is the government taking?"
+        },
+        {
+          "text": "What measures is the US taking against covid-19?"
+        }
+      ],
+      "description": "Government readiness questions."
+    },
+    {
+      "intent": "COVID_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        },
+        {
+          "text": "Are the museums closed?"
+        },
+        {
+          "text": "can i go to church"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        },
+        {
+          "text": "can I still attend a conference"
+        },
+        {
+          "text": "can my church still meet"
+        },
+        {
+          "text": "event shutdowns"
+        },
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "public events cancelled"
+        },
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "When are sports going to start back up?"
+        },
+        {
+          "text": "When will the major sports leagues start playing again?"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "When will the NHL return?"
+        },
+        {
+          "text": "When will the NCAA championships be held?"
+        },
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        },
+        {
+          "text": "Are churches closed"
+        },
+        {
+          "text": "Is it okay to partake in sports activities?"
+        }
+      ],
+      "description": "Event shutdowns and business closures."
+    },
+    {
+      "intent": "COVID_Testing_Information",
+      "examples": [
+        {
+          "text": "ok - I've got enough of those that I think I need to get tested."
+        },
+        {
+          "text": "When is the coronavirus test able to detect the disease?"
+        },
+        {
+          "text": "What is the test to detect covid 19?"
+        },
+        {
+          "text": "testing travelers?"
+        },
+        {
+          "text": "Should we get tested if we only have symptoms"
+        },
+        {
+          "text": "should i get tested if I do not have symptoms but think I've been exposed?"
+        },
+        {
+          "text": "my friend has it should i get tested"
+        },
+        {
+          "text": "is there test kit for coronavirus"
+        },
+        {
+          "text": "Is there a test kit for the coronavirus?"
+        },
+        {
+          "text": "is there a test kit for coronavirus"
+        },
+        {
+          "text": "Is there a test for the coronavirus"
+        },
+        {
+          "text": "is there a coronavirus test kit"
+        },
+        {
+          "text": "Is the covid test able to detect infection even during the incubation period?"
+        },
+        {
+          "text": "Is it possible to test for covid 19 during the incubation period?"
+        },
+        {
+          "text": "Is it possible to detect the disease during the incubation period?"
+        },
+        {
+          "text": "I have symptoms. Should I get tested?"
+        },
+        {
+          "text": "I have a fever, should I get tested?"
+        },
+        {
+          "text": "do i need to get tested?"
+        },
+        {
+          "text": "coronavirus test kit"
+        },
+        {
+          "text": "Can I test myself?"
+        },
+        {
+          "text": "can I get tested quickly?"
+        },
+        {
+          "text": "Can I get tested at home?"
+        }
+      ],
+      "description": "General questions about testing."
+    },
+    {
+      "intent": "COVID_Masks_Availability",
+      "examples": [
+        {
+          "text": "How is it possible that the state does not have enough masks and respirators?"
+        },
+        {
+          "text": "Why aren't there enough masks and respirators?"
+        },
+        {
+          "text": "why aren't any masks available?"
+        },
+        {
+          "text": "Why are there no masks and respirators in pharmacies?"
+        },
+        {
+          "text": "Why are no masks or respirators available anywhere?"
+        },
+        {
+          "text": "Who has masks and respirators?"
+        },
+        {
+          "text": "Where do people get protective masks or disinfectants?"
+        },
+        {
+          "text": "Where can I get masks?"
+        },
+        {
+          "text": "Where are face masks available?"
+        },
+        {
+          "text": "When will respirators and masks be finally sold?"
+        },
+        {
+          "text": "When will masks be available?"
+        },
+        {
+          "text": "When will masks be available at retail stores? They are not yet and we can get infected on public transport before they are."
+        },
+        {
+          "text": "Why aren't there respirators?"
+        },
+        {
+          "text": "How can I get a mask?"
+        },
+        {
+          "text": "Why can't I get or find a mask or a respirator anywhere?"
+        },
+        {
+          "text": "When can I buy a mask?"
+        },
+        {
+          "text": "When can I buy a mask at a pharmacy?"
+        },
+        {
+          "text": "I'd like a respirator"
+        },
+        {
+          "text": "Are there stores with protective face masks?"
+        },
+        {
+          "text": "Help me get a respirator"
+        }
+      ],
+      "description": "Availability of masks."
+    },
+    {
+      "intent": "COVID_Quarantine",
+      "examples": [
+        {
+          "text": "If infected, how long should individuals self-quarantine?"
+        },
+        {
+          "text": "if i have symptoms, how long should i quarantine for?"
+        },
+        {
+          "text": "Is anyone checking for compliance with those ordered to quarantine?"
+        },
+        {
+          "text": "What can I do when I'm in quarantine?"
+        },
+        {
+          "text": "What exactly is home quarantine?"
+        },
+        {
+          "text": "What if I break quarantine?"
+        },
+        {
+          "text": "What should I do if I have been quarantined?"
+        },
+        {
+          "text": "What should I do in quarantine?"
+        },
+        {
+          "text": "Who is responsible for quarantined people?"
+        },
+        {
+          "text": "How long does it take to quarantine?"
+        },
+        {
+          "text": "How long do I have to stay in quarantine?"
+        },
+        {
+          "text": "How long do I have to self isolate if I have tested positive?"
+        },
+        {
+          "text": "How long do I have to be stuck at home?"
+        },
+        {
+          "text": "How does Quarantine work?"
+        },
+        {
+          "text": "Are people in quarantine checked?"
+        },
+        {
+          "text": "How long should I be in quarantine?"
+        },
+        {
+          "text": "How long should I quarantine?"
+        },
+        {
+          "text": "How long should you self-quarantine?"
+        },
+        {
+          "text": "how long will we have to self quarantine?"
+        },
+        {
+          "text": "If I have Covid how long do I have to self isolate"
+        },
+        {
+          "text": "A colleague is breaking quarantine what should I do?"
+        }
+      ],
+      "description": "Quarantine requirements."
+    },
+    {
+      "intent": "COVID_Transmission",
+      "examples": [
+        {
+          "text": "How is covid transmitted?"
+        },
+        {
+          "text": "is covid19 contagious?"
+        },
+        {
+          "text": "is it contagious"
+        },
+        {
+          "text": "Is it possible to get infected from the infected person the next day?"
+        },
+        {
+          "text": "number of infected"
+        },
+        {
+          "text": "spreading covid to others"
+        },
+        {
+          "text": "When does a person become contagious?"
+        },
+        {
+          "text": "does the virus spread thru surfaces"
+        },
+        {
+          "text": "how can covid be transmitted"
+        },
+        {
+          "text": "How can I get infected?"
+        },
+        {
+          "text": "How contagious is COVID-19?"
+        },
+        {
+          "text": "How do I catch the virus?"
+        },
+        {
+          "text": "how does coronavirus spread?"
+        },
+        {
+          "text": "how does covid spread"
+        },
+        {
+          "text": "How does covid spread?"
+        },
+        {
+          "text": "how does covid-19 spread"
+        },
+        {
+          "text": "how does covid-19 spread to others"
+        },
+        {
+          "text": "How does the infection spread"
+        },
+        {
+          "text": "how does the virus spread"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "how many people are infected in the United States"
+        },
+        {
+          "text": "How would I catch it?"
+        },
+        {
+          "text": "How would I get covid?"
+        },
+        {
+          "text": "Is Coronavirus contagious?"
+        },
+        {
+          "text": "is covid transmissible from animals?"
+        },
+        {
+          "text": "is covid-19 contagious?"
+        }
+      ],
+      "description": "How Covid-19 is transmitted."
+    },
+    {
+      "intent": "COVID_School_shutdown",
+      "examples": [
+        {
+          "text": "is my school closed"
+        },
+        {
+          "text": "When will my kids be back in school?"
+        },
+        {
+          "text": "When will my good go back to school?"
+        },
+        {
+          "text": "When is school back in session?"
+        },
+        {
+          "text": "When does covid vacation end?"
+        },
+        {
+          "text": "when do the children go back to school"
+        },
+        {
+          "text": "when can my kids go back to school"
+        },
+        {
+          "text": "when can my kids go back to high school in 78712"
+        },
+        {
+          "text": "Is my kids school closed?"
+        },
+        {
+          "text": "is my kids school closed"
+        },
+        {
+          "text": "Is HS 123 open?"
+        },
+        {
+          "text": "Is graduation delayed?"
+        },
+        {
+          "text": "I live in 78709. when will my kids high school reopen?"
+        },
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        },
+        {
+          "text": "can my kids return to high school"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "Are schools open?"
+        },
+        {
+          "text": "are schools open"
+        },
+        {
+          "text": "are schools in my area closed"
+        },
+        {
+          "text": "are schools closed?"
+        },
+        {
+          "text": "are schools closed in my area"
+        },
+        {
+          "text": "When can my kid go back to college"
+        },
+        {
+          "text": "when can my kids go back to college?"
+        },
+        {
+          "text": "When can I return to school?"
+        },
+        {
+          "text": "what schools are closed"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "is the school closed"
+        },
+        {
+          "text": "Is my school closed?"
+        },
+        {
+          "text": "when can my kid go back to high school"
+        },
+        {
+          "text": "when can my kid go back school"
+        },
+        {
+          "text": "when can my high school senior go back to school"
+        },
+        {
+          "text": "ARE COLLEGES OPEN"
+        },
+        {
+          "text": "Are my children's schools closed?"
+        },
+        {
+          "text": "Are my schools closed"
+        },
+        {
+          "text": "when can my kid go back to school"
+        },
+        {
+          "text": "when can my kids back school"
+        },
+        {
+          "text": "are my schools closed?"
+        },
+        {
+          "text": "are schools closed"
+        },
+        {
+          "text": "are schools closed ?"
+        },
+        {
+          "text": "Will there be school in the summer?"
+        },
+        {
+          "text": "Will there be exams in the summer?"
+        },
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "when can i send my kids back to school"
+        },
+        {
+          "text": "when can kid go back to school"
+        },
+        {
+          "text": "when can kids return to school"
+        },
+        {
+          "text": "Will graduations be pushed back?"
+        },
+        {
+          "text": "Will classes be moved to summer?"
+        },
+        {
+          "text": "Which schools are closed?"
+        },
+        {
+          "text": "where can my kids go back to school"
+        },
+        {
+          "text": "When will the schools open?"
+        },
+        {
+          "text": "When will schools close?"
+        },
+        {
+          "text": "when will my kids school reopen"
+        }
+      ],
+      "description": "Information on school shutdowns."
+    },
+    {
+      "intent": "COVID_See_Doctor",
+      "examples": [
+        {
+          "text": "When do i call a doctor"
+        },
+        {
+          "text": "when should I call a doctor"
+        },
+        {
+          "text": "when should I go to a doctor?"
+        },
+        {
+          "text": "When should I go to the doctor?"
+        },
+        {
+          "text": "Who should I call if I have symptoms?"
+        },
+        {
+          "text": "Where should I go if I suspect I have coronavirus?"
+        },
+        {
+          "text": "When should I go to the hospital?"
+        },
+        {
+          "text": "can I go to the hospital?"
+        },
+        {
+          "text": "Do I have to go to the hospital if I get COVID"
+        },
+        {
+          "text": "how do i know whether to go to the doctor?"
+        },
+        {
+          "text": "I am coughing.  Should I call my doctor?"
+        },
+        {
+          "text": "I have a cough but am breathing fine, should I go to the hospital or wait?"
+        },
+        {
+          "text": "Should I make an appointment with my Dr?"
+        },
+        {
+          "text": "Should I go to the hospital"
+        },
+        {
+          "text": "should i go to the ER if i have a cough"
+        },
+        {
+          "text": "should i go to the doctor now"
+        },
+        {
+          "text": "If I think I have COVID-19, should I see my Dr?"
+        },
+        {
+          "text": "I'm coughing, should I go to the doctor?"
+        },
+        {
+          "text": "I suspect I have the virus who can I call?"
+        },
+        {
+          "text": "i have a fever. should i go to the hospital?"
+        },
+        {
+          "text": "when did I need to call the doctor?"
+        },
+        {
+          "text": "Should I see a doctor if I am not feeling well?"
+        },
+        {
+          "text": "Should I see a doctor if I am showing the symptoms?"
+        }
+      ],
+      "description": "Asking if it is possible to see a doctor."
+    },
+    {
+      "intent": "COVID_Treatment_Vaccine",
+      "examples": [
+        {
+          "text": "is there a vaccine for Covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for the coronavirus?"
+        },
+        {
+          "text": "Is there a vaccine for this"
+        },
+        {
+          "text": "Is there a vaccine?"
+        },
+        {
+          "text": "What's the status of a vaccine?"
+        },
+        {
+          "text": "When can I expect drugs for the virus?"
+        },
+        {
+          "text": "When will covid-19 medicines be ready?"
+        },
+        {
+          "text": "Why isn't there a vaccine yet?"
+        },
+        {
+          "text": "Covid-19 vaccine?"
+        },
+        {
+          "text": "How long does it take to develop a vaccine?"
+        },
+        {
+          "text": "How long will it be until there is a vaccine?"
+        },
+        {
+          "text": "Is it possible to estimate how long it will take to administer the drug / vaccine to people?"
+        },
+        {
+          "text": "Is the covid vaccine ready?"
+        },
+        {
+          "text": "Is there a covid vaccine?"
+        },
+        {
+          "text": "Is there a cure for covid 19?"
+        },
+        {
+          "text": "Is there a cure for covid-19?"
+        },
+        {
+          "text": "Is there a magical cure for covid-19?"
+        },
+        {
+          "text": "Is there a vaccine for corona virus"
+        },
+        {
+          "text": "Is there a vaccine for coronavirus?"
+        },
+        {
+          "text": "is there a vaccine for covid"
+        },
+        {
+          "text": "Is there a vaccine for Covid-19"
+        }
+      ],
+      "description": "Questions about vaccination."
+    },
+    {
+      "intent": "COVID_Symptoms",
+      "examples": [
+        {
+          "text": "how do i know if i have this issue"
+        },
+        {
+          "text": "what are the symptoms I should look out for"
+        },
+        {
+          "text": "what are the symptoms"
+        },
+        {
+          "text": "what are the most common symptoms of COVID?"
+        },
+        {
+          "text": "What are the first symptoms for COVID?"
+        },
+        {
+          "text": "what are the early symptoms of covid-19?"
+        },
+        {
+          "text": "what are the COVID-19 symptoms?"
+        },
+        {
+          "text": "what are the covid symtoms"
+        },
+        {
+          "text": "what are the common symptoms"
+        },
+        {
+          "text": "what are symtoms?"
+        },
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "what are symptoms of coronavirus"
+        },
+        {
+          "text": "what are symptoms"
+        },
+        {
+          "text": "what are my symptoms"
+        },
+        {
+          "text": "what are the symptoms of coronavirus"
+        },
+        {
+          "text": "what are the symptoms of COVID-19"
+        },
+        {
+          "text": "What are the symptoms of covid?"
+        },
+        {
+          "text": "What are the symptoms of the disease?"
+        },
+        {
+          "text": "What are the symptoms?"
+        },
+        {
+          "text": "what are the types of symptoms"
+        },
+        {
+          "text": "what is the first symptom"
+        },
+        {
+          "text": "what symptoms are typical with this disease"
+        },
+        {
+          "text": "What to do if I think I have covid?"
+        },
+        {
+          "text": "Will I poop a lot if I have the virus?"
+        },
+        {
+          "text": "Will I throw up if I have the virus?"
+        },
+        {
+          "text": "Will my head hurt if I have covid 19?"
+        },
+        {
+          "text": "what are covid 19 symptoms"
+        },
+        {
+          "text": "Wet cough"
+        },
+        {
+          "text": "temperature"
+        },
+        {
+          "text": "tell me about the symptoms"
+        },
+        {
+          "text": "Symptoms"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "rhinitis"
+        },
+        {
+          "text": "my throat hurts and I have a headache as well"
+        },
+        {
+          "text": "my throat and head hurt"
+        },
+        {
+          "text": "My husband has coronavirus symptoms"
+        },
+        {
+          "text": "My girlfriend has symptoms of covid-19"
+        },
+        {
+          "text": "my eyes are burning"
+        },
+        {
+          "text": "My child is coughing. Should I be worried?"
+        },
+        {
+          "text": "my child has a high fever and is coughing. what should I do?"
+        },
+        {
+          "text": "Is rash a symptom of covid-19?"
+        },
+        {
+          "text": "Is a headache a symptom of the coronavirus?"
+        },
+        {
+          "text": "If I only have a sore throat is it Coronavirus?"
+        },
+        {
+          "text": "I'm having respiratory problems"
+        },
+        {
+          "text": "I'm afraid I have covid-19"
+        },
+        {
+          "text": "I think i'm infected"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think I have covid 19"
+        },
+        {
+          "text": "I think I feel symptoms of the disease"
+        },
+        {
+          "text": "I have traveled recently. What do I do?"
+        },
+        {
+          "text": "I have sore throat, is it coronavirus?"
+        },
+        {
+          "text": "I have sore throat"
+        },
+        {
+          "text": "I have illness symptoms"
+        },
+        {
+          "text": "I have headache and sore throat, what should I do ?"
+        },
+        {
+          "text": "I have an irritating cough"
+        },
+        {
+          "text": "I have a temperature and cough. Do I have the coronavirus?"
+        },
+        {
+          "text": "i have a sore throat"
+        },
+        {
+          "text": "I have a fever"
+        },
+        {
+          "text": "I have a burning feeling in my chest"
+        },
+        {
+          "text": "I feel congested and have a fever"
+        },
+        {
+          "text": "I can not breath very well"
+        },
+        {
+          "text": "how to distinguish it from a common cold."
+        },
+        {
+          "text": "How do I know if I'm sick with covid-19?"
+        },
+        {
+          "text": "how do I know if i have this thing"
+        },
+        {
+          "text": "how do i know if im sick"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "Do I have coronavirus?"
+        },
+        {
+          "text": "do I have covid?"
+        },
+        {
+          "text": "Hi what are the symptoms?"
+        },
+        {
+          "text": "how can one know if they have been infected?"
+        },
+        {
+          "text": "How do I know if I am infected with Covid"
+        },
+        {
+          "text": "how do i know if i got this"
+        },
+        {
+          "text": "how do i know if I got this thing"
+        }
+      ],
+      "description": "Symptoms of Covid-19."
+    },
+    {
+      "intent": "COVID_Shopping_Groceries",
+      "examples": [
+        {
+          "text": "are grocery stores still open"
+        },
+        {
+          "text": "can I go to the grocery store or will I catch corona"
+        },
+        {
+          "text": "Can I go to the grocery store?"
+        },
+        {
+          "text": "can i go to the store."
+        },
+        {
+          "text": "what grocery store in keller is open?"
+        },
+        {
+          "text": "Is it safe to go to the grocery store?"
+        },
+        {
+          "text": "Is it safe to go to Costco?"
+        },
+        {
+          "text": "Is it safe to go out to buy food and staples?"
+        },
+        {
+          "text": "Is it risky to buy food at the store?"
+        },
+        {
+          "text": "Is it okay to go grocery shopping?"
+        },
+        {
+          "text": "is it ok for me to go to the grocery store"
+        },
+        {
+          "text": "I need medicine. Can I go to the store?"
+        },
+        {
+          "text": "I am in a high risk group. Can I buy my own food and medicine?"
+        },
+        {
+          "text": "How should I get groceries?"
+        },
+        {
+          "text": "can we go to the store?"
+        },
+        {
+          "text": "Can I still go to the grocery store?"
+        },
+        {
+          "text": "can I still go grocery shopping"
+        },
+        {
+          "text": "Am I allowed to go to the grocery store?"
+        },
+        {
+          "text": "can I go to grocery stores"
+        },
+        {
+          "text": "can i go to the grocery store"
+        }
+      ],
+      "description": "Status of grocery stores."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "COVID_Masks_Protection",
+      "examples": [
+        {
+          "text": "What is a cloth face covering and how does it help?"
+        },
+        {
+          "text": "Should I wear a mask so I don't get infected?"
+        },
+        {
+          "text": "Should I wear a mask or a respirator?"
+        },
+        {
+          "text": "Should I have something on my face when I go out?"
+        },
+        {
+          "text": "Should I cover my face in public?"
+        },
+        {
+          "text": "Should I buy a respirator?"
+        },
+        {
+          "text": "I often travel by public transport. Should I wear a respirator?"
+        },
+        {
+          "text": "Does the government recommend wearing masks?"
+        },
+        {
+          "text": "Does the CDC say to cover your face?"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "Does a mask or respirator help prevent covid infection?"
+        },
+        {
+          "text": "Am I supposed to wear a face covering?"
+        },
+        {
+          "text": "Can a mask help me?"
+        },
+        {
+          "text": "Can I go out without a respirator?"
+        },
+        {
+          "text": "Do I have to wear a mask when I'm outside or taking a walk?"
+        },
+        {
+          "text": "Do I have to wear a respirator?"
+        },
+        {
+          "text": "Will a respirator help me?"
+        },
+        {
+          "text": "When should I wear a respirator?"
+        },
+        {
+          "text": "When should I wear a mask?"
+        },
+        {
+          "text": "should I wear a respirator?"
+        }
+      ],
+      "description": "Explaining how masks can protect."
+    },
+    {
+      "intent": "COVID_Case_Count",
+      "examples": [
+        {
+          "text": "How many people are sick throughout the world?"
+        },
+        {
+          "text": "Are there any cases near me"
+        },
+        {
+          "text": "are people infected in my city ?"
+        },
+        {
+          "text": "How many people in the world have died?"
+        },
+        {
+          "text": "How many people total have coronavirus?"
+        },
+        {
+          "text": "how many ppl are infected in the us?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "Where are cases?"
+        },
+        {
+          "text": "Where can I find information about covid 19 for the world?"
+        },
+        {
+          "text": "Which countries has covid-19 been detected in?"
+        },
+        {
+          "text": "how many people in texas have corona virus?"
+        },
+        {
+          "text": "how many people have the virus?"
+        },
+        {
+          "text": "How many people have the virus in our county"
+        },
+        {
+          "text": "How many people have covid-19 in the whole world?"
+        },
+        {
+          "text": "how many people have contracted the virus in pennysylvania"
+        },
+        {
+          "text": "How many people are infected with Corona virus currently in texas?"
+        },
+        {
+          "text": "How many people are infected in Illinois?"
+        },
+        {
+          "text": "how many people are infected"
+        },
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "how many patients are infected with corona virus in collin county"
+        },
+        {
+          "text": "How many folks in Texas are infected?"
+        },
+        {
+          "text": "how many current cases are there in Illinois"
+        },
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "How many cases of the virus are there in the world?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "how many cases are there in Texas?"
+        },
+        {
+          "text": "How has coronavirus spread around the world?"
+        },
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        }
+      ],
+      "description": "Number of cases nearby."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You the man"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "COVID_Prevention",
+      "examples": [
+        {
+          "text": "How can I avoid getting sick?"
+        },
+        {
+          "text": "how can I not get sick"
+        },
+        {
+          "text": "steps to protect yourself from covid-19"
+        },
+        {
+          "text": "precautionary measures"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "How to prevent covid infection?"
+        },
+        {
+          "text": "how to I prevent myself from getting sick?"
+        },
+        {
+          "text": "How to avoid catching covid-19."
+        },
+        {
+          "text": "How do you protect yourself?"
+        },
+        {
+          "text": "how do I stay safe"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "how do i prevent catching the disease"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "How do I avoid Coronavirus"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "Should I avoid people?"
+        },
+        {
+          "text": "What are some good tips for prevention?"
+        },
+        {
+          "text": "what can I do to avoid getting sick?"
+        },
+        {
+          "text": "What can I do to not get sick?"
+        },
+        {
+          "text": "what can i do to prevent COIVD?"
+        },
+        {
+          "text": "what can i do to stay safe"
+        },
+        {
+          "text": "what can i do to prevent getting coronavirus?"
+        },
+        {
+          "text": "What is effective prevention against covid?"
+        },
+        {
+          "text": "What is the best prevention?"
+        },
+        {
+          "text": "what is the best way to prevent coronavirus"
+        },
+        {
+          "text": "What is the most effective prevention?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "What will help me prevent covid infection?"
+        },
+        {
+          "text": "What should I do to stay safe?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "What should I do to avoid getting sick?"
+        },
+        {
+          "text": "What rules should I follow to prevent covid illness?"
+        },
+        {
+          "text": "how can i prevent coronavirus"
+        },
+        {
+          "text": "Can I protect myself by drinking alcohol"
+        },
+        {
+          "text": "Does eating garlic help?"
+        },
+        {
+          "text": "Does the sun kill coronavirus?"
+        }
+      ],
+      "description": "Ways to prevent Covid-19."
+    },
+    {
+      "intent": "COVID_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "Is driving considered travel?"
+        },
+        {
+          "text": "Is commercial air travel suspended too?"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "can I travel to Arkansas"
+        },
+        {
+          "text": "Can I travel out of the country?"
+        },
+        {
+          "text": "Can I travel in the current emergency situation?"
+        },
+        {
+          "text": "Can I travel for work?"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "airline travel"
+        },
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "Can I visit relatives in another state?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "What counts as travel?"
+        },
+        {
+          "text": "should i travel?"
+        },
+        {
+          "text": "Should I change my travel plans?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        }
+      ],
+      "description": "Status of travel restrictions."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "COVID_Testing_Locations",
+      "examples": [
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "can you direct me to the nearest test center"
+        },
+        {
+          "text": "How can I get a coronavirus test?"
+        },
+        {
+          "text": "How can I get a test"
+        },
+        {
+          "text": "how can i get screened"
+        },
+        {
+          "text": "how do I get a coronavirus test?"
+        },
+        {
+          "text": "how do i get a test?"
+        },
+        {
+          "text": "how do I get screened?"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "how do you test"
+        },
+        {
+          "text": "i am in new york where should i get tested"
+        },
+        {
+          "text": "i have symptoms. where can i get tested?"
+        },
+        {
+          "text": "I live in Austin, where can I get tested for Covid-19"
+        },
+        {
+          "text": "I live in Ontario, where can I get tested?"
+        },
+        {
+          "text": "I need to be checked for covid 19."
+        },
+        {
+          "text": "I need to get tested, where can I go?"
+        },
+        {
+          "text": "I want a coronavirus test"
+        },
+        {
+          "text": "I want a test for coronavirus"
+        },
+        {
+          "text": "I want to be tested for covid-19"
+        },
+        {
+          "text": "I want to get tested for covid soon"
+        },
+        {
+          "text": "I want to make an appointment for testing"
+        },
+        {
+          "text": "I want to test myself for coronavirus soon"
+        },
+        {
+          "text": "None of those sound like they cover how to get tested. Can you tell me how/where I can get tested?"
+        },
+        {
+          "text": "set an appointment for covid testing"
+        },
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "where can I be tested"
+        },
+        {
+          "text": "where can I get a coronavirus test"
+        },
+        {
+          "text": "Where can I get a COVID-19 test?"
+        },
+        {
+          "text": "where can i get a test"
+        },
+        {
+          "text": "where can I get a test done"
+        },
+        {
+          "text": "where can I get a test done?"
+        },
+        {
+          "text": "where can I get a test kit"
+        },
+        {
+          "text": "where can I get a test?"
+        },
+        {
+          "text": "where can i get screened?"
+        },
+        {
+          "text": "Where can I get tested for Corona?"
+        },
+        {
+          "text": "where can i get tested for coronavirus"
+        },
+        {
+          "text": "Where can I get tested for coronavirus?"
+        },
+        {
+          "text": "Where can I get tested for cover-19"
+        },
+        {
+          "text": "where can I get tested for the coronavirus in New York"
+        },
+        {
+          "text": "where can I get tested in alabama"
+        },
+        {
+          "text": "where can I get tested in Houston?"
+        },
+        {
+          "text": "where can I get tested in new mexico"
+        },
+        {
+          "text": "Where can I go to get tested for COVID?"
+        },
+        {
+          "text": "where can I order a coronavirus test"
+        },
+        {
+          "text": "Where can I test"
+        },
+        {
+          "text": "where can i get tested"
+        },
+        {
+          "text": "where do I get a test"
+        },
+        {
+          "text": "Where do I go for COVID19 testing?"
+        },
+        {
+          "text": "where I can get tested"
+        },
+        {
+          "text": "where should I go to get screened"
+        },
+        {
+          "text": "Who do I contact if I want to get tested for covid 19 infection?"
+        },
+        {
+          "text": "Can I get tested at my doctor's?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        }
+      ],
+      "description": "Where to get tested."
+    },
+    {
+      "intent": "COVID_Unemployment_Application",
+      "examples": [
+        {
+          "text": "If I got furloughed, do I qualify for unemployment?"
+        },
+        {
+          "text": "What happens if I lose my job?"
+        },
+        {
+          "text": "What do I do if I don't have unemployment insurance?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits due to Covid-19?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits?"
+        },
+        {
+          "text": "how long can I get unemployment?"
+        },
+        {
+          "text": "how long does it take to get unemployment"
+        },
+        {
+          "text": "how to apply for unemployment"
+        },
+        {
+          "text": "how to I apply for unemployment"
+        },
+        {
+          "text": "i can't go to work.  can i get unemployment?"
+        },
+        {
+          "text": "I have a question about unemployment"
+        },
+        {
+          "text": "I just got laid off, now what?"
+        },
+        {
+          "text": "i need to apply for unemployment.  how do I do it"
+        },
+        {
+          "text": "What if I got furloughed?"
+        },
+        {
+          "text": "where can I apply for unemployment"
+        },
+        {
+          "text": "how do I apply for unemployment because of covid-19"
+        },
+        {
+          "text": "how do I apply for unemployment"
+        },
+        {
+          "text": "how can I apply for unemployment?"
+        },
+        {
+          "text": "how can i apply for unemployment during this outbreak?"
+        },
+        {
+          "text": "How am I gonna pay my bills if I don't have a job anymore?"
+        },
+        {
+          "text": "apply for unemployment"
+        },
+        {
+          "text": "what can I do if I lose my job?"
+        },
+        {
+          "text": "what can I do if I lose my job"
+        }
+      ],
+      "description": "How to apply for unemployment."
+    },
+    {
+      "intent": "COVID_Paid_Leave",
+      "examples": [
+        {
+          "text": "do i get paid leave time"
+        },
+        {
+          "text": "will paid sick leave be available for Uber drivers?"
+        },
+        {
+          "text": "will Texas provide paid sick leave"
+        },
+        {
+          "text": "Will I get paid if I have COVID-19?"
+        },
+        {
+          "text": "am I eligible for paid sick leave"
+        },
+        {
+          "text": "am I eligible for sick leave"
+        },
+        {
+          "text": "can i get paid sick leave"
+        },
+        {
+          "text": "Can i still get paid sick leave for 14 days if i get corona"
+        },
+        {
+          "text": "do I get paid sick leave"
+        },
+        {
+          "text": "does my workplace offer paid sick leave?"
+        },
+        {
+          "text": "duration of paid sick leave?"
+        },
+        {
+          "text": "how long can i get paid sick leave"
+        },
+        {
+          "text": "How much do I get paid for sick leave"
+        },
+        {
+          "text": "How much paid sick leave will I get if I am contracted with the virus?"
+        },
+        {
+          "text": "I work at a grocery store but my childcare is closed, is anything being setup to handle this?"
+        },
+        {
+          "text": "If I get sick will I continue to get paid?"
+        },
+        {
+          "text": "My job will not let me work from home. Do I qualify for paid sick leave?"
+        },
+        {
+          "text": "paid sick leave"
+        },
+        {
+          "text": "tell me about paid sick leave"
+        },
+        {
+          "text": "what if I don't have paid sick leave"
+        },
+        {
+          "text": "What if I don't have paid sick leave?"
+        },
+        {
+          "text": "When am I entitled to take paid sick leave?"
+        },
+        {
+          "text": "who is able to get paid sick leave"
+        },
+        {
+          "text": "who is eligible to get paid sick leave"
+        },
+        {
+          "text": "Will government employees be paid during sick leave?"
+        },
+        {
+          "text": "Will I get paid leave?"
+        },
+        {
+          "text": "Will my employer give me paid leave if I have coronavirus?"
+        }
+      ],
+      "description": "Eligibility for paid leave."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "What do you do?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "COVID_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "how do i get rid of germs at my home"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "cleaning products"
+        },
+        {
+          "text": "disinfectant products"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "Do I need to disinfect my cell phone when I get home"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        },
+        {
+          "text": "What is the best way to clean?"
+        },
+        {
+          "text": "what cleaning regimen should I follow"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "Which surfaces are most important to disinfect?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "What kind of disinfectant should I use?"
+        },
+        {
+          "text": "mopping products"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "is lysol enough to get rid of covid virus from countertops"
+        },
+        {
+          "text": "How should I wash my clothes if I may have been exposed to COVID-19?"
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "COVID_Description",
+      "examples": [
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "I heard about covid what is it?"
+        },
+        {
+          "text": "Is covid a disease?"
+        },
+        {
+          "text": "what is the corona virus?"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is covid-19"
+        },
+        {
+          "text": "What is COVID?"
+        },
+        {
+          "text": "what is covid19"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "what is the Corona Virus"
+        },
+        {
+          "text": "origin of coronavirus"
+        },
+        {
+          "text": "What does covid stand for?"
+        },
+        {
+          "text": "What is corona virus"
+        },
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "What is Corona virus?"
+        },
+        {
+          "text": "covid what is it"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        },
+        {
+          "text": "where did covid come from?"
+        },
+        {
+          "text": "where did corona virus start from?"
+        },
+        {
+          "text": "Where can I learn more about covid?"
+        },
+        {
+          "text": "Where can I find more information about covid 19?"
+        },
+        {
+          "text": "What is covid"
+        }
+      ],
+      "description": "Describe Covid-19."
+    },
+    {
+      "intent": "COVID_Illness_Length",
+      "examples": [
+        {
+          "text": "how long is the incubation period for covid-19"
+        },
+        {
+          "text": "How long do I need to quarantine before I no longer can transmit the virus?"
+        },
+        {
+          "text": "how long do symptoms take to develop?"
+        },
+        {
+          "text": "how long does coronavirus last"
+        },
+        {
+          "text": "How long does COVID-19 last?"
+        },
+        {
+          "text": "how long does it last"
+        },
+        {
+          "text": "how long does it last?"
+        },
+        {
+          "text": "how long does it take for the virus to run through my system?"
+        },
+        {
+          "text": "how long does the corona virus last?"
+        },
+        {
+          "text": "How long does the coronavirus last?"
+        },
+        {
+          "text": "How long does the disease last?"
+        },
+        {
+          "text": "how long does the virus last"
+        },
+        {
+          "text": "how long does the virus last?"
+        },
+        {
+          "text": "How long before I experience covid-19 symptoms?"
+        },
+        {
+          "text": "how long can I expect to be sick?"
+        },
+        {
+          "text": "How long before I get symptoms?"
+        },
+        {
+          "text": "How long are people infected with COVID-19 before they are symptomatic?"
+        },
+        {
+          "text": "What is the incubation period of covid?"
+        },
+        {
+          "text": "Incubation period of coronavirus?"
+        },
+        {
+          "text": "How long will I feel terrible?"
+        },
+        {
+          "text": "How long is the incubation period?"
+        },
+        {
+          "text": "How long is the incubation period of covid 19?"
+        }
+      ],
+      "description": "How long Covid lasts."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "coronavirus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coronavirus",
+          "synonyms": [
+            "covid",
+            "covid19",
+            "coronaviruses",
+            "Corona virus",
+            "Covid-19"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/1999sruthi%40gmail.com_dev/default/Discovery-function.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Please try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1590283952725",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1590284099480",
+      "previous_sibling": "response_8_1590284096535"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_1.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590283952725",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_8_1590284096535"
+    },
+    {
+      "type": "standard",
+      "title": "coronavirus symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Symptoms can include fever, dry cough, a runny nose, fatigue and difficulty in breathing. Some may display very mild symptoms or no symptoms at all. In more severe cases, infection can cause pneumonia, grievous illness, and even death. Older people, and those with underlying medical problems are at a higher risk of developing serious illness.\nThe symptoms of COVID-19 are similar to those of the flu (influenza) or the common cold, which are a lot more prevalent. This is why testing is required to confirm that someone has COVID-19. Like other Coronaviruses, the Novel Coronavirus, too, is transmitted through direct contact with respiratory droplets of an infected person (generated through coughing and sneezing), and touching surfaces contaminated with the virus. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#COVID_Symptoms",
+      "dialog_node": "node_6_1590496918089",
+      "previous_sibling": "node_4_1590496807454"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_1_1589980694614",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OK. See you later!"
+              },
+              {
+                "text": "Bye!! Have a good day!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_1_1589980694614",
+      "previous_sibling": "node_6_1590283952725"
+    },
+    {
+      "type": "standard",
+      "title": "coronavirus description",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Novel Coronavirus (CoV) is a new strain of the Coronavirus. The disease caused by it, first identified in Wuhan, China, has been named Coronavirus Disease 2019 (COVID-19) – ‘CO’ stands for Corona, ‘VI’ for Virus, and ‘D’ for Disease. The virus is referred to as 2019 Novel Coronavirus or 2019-nCoV. The2019-nCoV is a part of the same family of viruses as the ones which cause Severe Acute Respiratory Syndrome (SARS) and even some types of the common cold. The World Health Organization (WHO) has declared COVID-19 to be a pandemic. Characterising COVID-19 as a pandemic is not an indication that the virus has become deadlier. Rather, it’s an acknowledgement of the  geographical spread of the disease. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#COVID_Description",
+      "dialog_node": "node_4_1590496807454",
+      "previous_sibling": "node_9_1589980524431"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi! How may I help You??"
+              },
+              {
+                "text": "Hello! How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_9_1589980524431",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "coronavirus information",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#COVID_Illness_Length || #COVID_Prevention || #COVID_Transmission || #COVID_Cleaning_Disinfecting || #COVID_Masks_Protection",
+      "dialog_node": "node_6_1590283952725",
+      "previous_sibling": "node_6_1590496918089"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! Welcome to Coronavirus Information centre. How can we help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
